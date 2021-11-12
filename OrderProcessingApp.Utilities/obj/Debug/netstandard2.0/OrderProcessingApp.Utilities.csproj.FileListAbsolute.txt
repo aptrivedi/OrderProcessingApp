@@ -1,0 +1,8 @@
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\bin\Debug\netstandard2.0\OrderProcessingApp.Utilities.deps.json
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\bin\Debug\netstandard2.0\OrderProcessingApp.Utilities.dll
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\bin\Debug\netstandard2.0\OrderProcessingApp.Utilities.pdb
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\obj\Debug\netstandard2.0\OrderProcessingApp.Utilities.csprojAssemblyReference.cache
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\obj\Debug\netstandard2.0\OrderProcessingApp.Utilities.AssemblyInfoInputs.cache
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\obj\Debug\netstandard2.0\OrderProcessingApp.Utilities.AssemblyInfo.cs
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\obj\Debug\netstandard2.0\OrderProcessingApp.Utilities.dll
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Utilities\obj\Debug\netstandard2.0\OrderProcessingApp.Utilities.pdb

@@ -1,0 +1,11 @@
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.csprojAssemblyReference.cache
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.AssemblyInfoInputs.cache
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.AssemblyInfo.cs
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\bin\Debug\netstandard2.0\OrderProcessingApp.Engine.deps.json
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\bin\Debug\netstandard2.0\OrderProcessingApp.Engine.dll
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\bin\Debug\netstandard2.0\OrderProcessingApp.Engine.pdb
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\bin\Debug\netstandard2.0\OrderProcessingApp.Utilities.dll
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\bin\Debug\netstandard2.0\OrderProcessingApp.Utilities.pdb
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.csproj.CopyComplete
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.dll
+C:\Sample Projects\OrderProcessingApp\OrderProcessingApp.Engine\obj\Debug\netstandard2.0\OrderProcessingApp.Engine.pdb
